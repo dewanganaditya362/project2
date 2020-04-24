@@ -1,0 +1,275 @@
+.nav{
+    display:flex;
+}
+
+.nav img{
+    padding-left:5%;
+    padding-right:20%;
+    height:25px;
+    padding-top: 18px;
+}
+
+.nav ul li{
+    list-style-type: none;
+    display: inline-flex;  
+    padding-left: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+}
+
+.button a{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 5%;
+    padding-bottom: 10px;
+    border: 1px solid transparent;
+    border-radius: 20px;
+    background: #33cc33;
+    color:white !important;
+    margin-left: 100px;
+ font-family: sans-serif;
+    position: absolute;
+    top:15px;
+}
+
+.button a:hover{
+    background: #0099ff;
+     transition: 0.6s ease;
+
+}
+
+.nav ul li a:hover{
+    border-bottom: 3px solid hsl(136, 65%, 51%);
+    padding-bottom: 10px;
+    transition: 0.6s ease;
+}
+
+.nav2{
+    padding-left:5%;
+    padding-top: 100px;
+     background:hsl(0, 0%, 98%);
+    height: 500px;
+}
+
+.intro img{
+    position:absolute;
+    right:0px;
+    top:100px;
+}
+
+
+
+.nav2 h1{
+    color: hsl(233, 26%, 24%);
+     font-family: sans-serif;
+    font-size: 70px;
+    font-weight: 100;
+}
+
+
+.nav2 p{
+    color: hsl(233, 8%, 62%);
+      font-family: sans-serif;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.but2 a{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+ padding-bottom: 10px;
+border: 1px solid transparent;
+border-radius: 20px;
+ background: #33cc33;
+    color:white !important;
+ font-family: sans-serif;
+}
+
+.but2 a:hover{
+     background: #0099ff;
+     transition: 0.6s ease;
+
+}
+
+.mockups img{
+    position: absolute;
+    right:0px;
+    height:700px;
+    top:100px;
+}
+
+.nav3{
+    padding-left:5%;
+    padding-right: 5%;
+    padding-top: 100px;
+     background: hsl(220, 16%, 96%);
+    height: 500px;
+}
+
+.nav3 h1{
+    color: hsl(233, 26%, 24%);
+     font-family: sans-serif;
+    font-size: 40px;
+    font-weight: 100;
+}
+
+.nav3 p{
+    color: hsl(233, 8%, 62%);
+      font-family: sans-serif;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.contain{
+    
+    padding-right: 10px;
+    display:flex;
+    justify-content: space-between;
+}
+
+.contain h1{
+     color: hsl(233, 26%, 24%);
+     font-family: sans-serif;
+    font-size: 25px;
+    font-weight: 100;
+}
+
+.contain p{
+    color: hsl(233, 8%, 62%);
+      font-family: sans-serif;
+    line-height: 30px;
+    font-size: 15px;
+}
+
+.nav4{
+    background:hsl(0, 0%, 98%);
+    height: 600px;
+    
+}
+
+.nav4 h1{
+    color: hsl(233, 26%, 24%);
+     font-family: sans-serif;
+    font-size: 40px;
+    font-weight: 100;
+     padding-left: 5%;
+}
+
+.contain2{
+    display:flex;
+    justify-content: space-between;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.contain2 img{
+    width: 70%;
+}
+
+.contain2 span{
+    color: hsl(233, 8%, 62%);
+      font-family: sans-serif;
+    line-height: 30px;
+    font-size: 15px;
+}
+
+.contain2 h1{
+    padding-left: 4%;
+}
+
+.contain2 h1 a{
+    color: hsl(233, 26%, 24%);
+     font-family: sans-serif;
+    font-size: 25px;
+    font-weight: 100;
+}
+
+.contain2 h1 a:hover{
+    color:  hsl(136, 65%, 51%);
+    transition: 0.8s ease;
+}
+
+.contain2 p{
+     color: hsl(233, 8%, 62%);
+      font-family: sans-serif;
+    line-height: 30px;
+    font-size: 15px;
+}
+
+.nav5{
+     display:flex;
+    justify-content: space-between;
+    padding-left: 5%;
+    padding-right: 5%;
+    background:  hsl(233, 26%, 24%);
+    height: 200px;
+    padding-top: 50px;
+    
+}
+
+.logo1{
+    padding-top: 20px;
+    color:white;
+}
+
+.nav5 ul li{
+     list-style-type: none;
+    font-family: sans-serif;
+}
+
+.r1 a{
+    color:white;
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 40px;
+}
+
+.r1 a:hover{
+    color:hsl(136, 65%, 51%);
+    transition: 0.6s ease;
+}
+
+.r2 a{
+    color:white;
+    text-decoration: none;
+     font-size: 20px;
+    line-height: 40px;   
+
+}
+
+.r2 a:hover{
+    color:hsl(136, 65%, 51%);
+    transition: 0.6s ease;
+}
+
+.r3{
+    padding-top: 50px;
+}
+.r3 a{
+     padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+ padding-bottom: 10px;
+    border: 1px solid transparent;
+border-radius: 20px;
+ background: #33cc33;
+    color:white !important;
+ font-family: sans-serif;
+
+}
+
+.r3 a:hover{
+     background: #0099ff;
+     transition: 0.6s ease;
+}
+
+.r3 span{
+    color: hsl(220, 16%, 96%);
+     font-family: sans-serif;
+    font-size:15px;
+}
